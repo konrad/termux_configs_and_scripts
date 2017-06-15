@@ -1,0 +1,2 @@
+#+TITLE: termux configuration and scripts
+
